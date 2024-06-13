@@ -1,0 +1,1 @@
+A simple POC to learn the process of publish and maintain a PHP package on Packagist 
