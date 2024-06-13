@@ -1,0 +1,20 @@
+{
+    "name": "rafaschneider/hello-packagist",
+    "description": "A simple POC to learn the process of publish and maintain a PHP package on Packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rafaschneider\\HelloPackagist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Vinícius Schneider",
+            "email": "rafaelvschneider@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
